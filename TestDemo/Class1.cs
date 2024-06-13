@@ -61,4 +61,6 @@ for(int i = 0; i < mensajeOriginal.Length; ++i){  //Iteramos en el mensaje origi
     }
 
 
+    
+
 }

@@ -2,7 +2,7 @@ namespace TestDemo.Tests;
 
 public class UnitTest1
 {
-    /*[Fact]
+    [Fact]
     public void cifrado ()
     {
         string word = "HOLA";
@@ -28,33 +28,33 @@ public class UnitTest1
 
         Assert.Equal (expectedResult, result2); 
 
-    }*/
+    }
 
     [Fact]
-    public void cifrado ()
+    public void cifrado_1 ()
     {
         string word = "ZARAGOZA";
         int k = 5;
 
         string ExpectedResult = "5FWFLT5F";
 
-        string result = Algorithm.cifrado (word, k);
+        string result3 = Algorithm.cifrado (word, k);
 
-        Assert.Equal(ExpectedResult, result);
+        Assert.Equal(ExpectedResult, result3);
     }
 
     [Fact]
     
-    public void descifrado()
+    public void descifrado_1()
     {
         string word = "5FWFLT5F";
         int k = 5;
 
         string expectedResult = "ZARAGOZA";
 
-        string result2 = Algorithm.descifrado (word, k);
+        string result4 = Algorithm.descifrado (word, k);
 
-        Assert.Equal (expectedResult, result2); 
+        Assert.Equal (expectedResult, result4); 
 
     }
 

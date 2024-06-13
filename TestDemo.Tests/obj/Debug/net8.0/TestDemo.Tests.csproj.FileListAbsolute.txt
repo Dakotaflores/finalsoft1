@@ -101,3 +101,13 @@ c:\Users\PERSONAL\Documents\Alfredo\Estudio\Fundamentos  de software\Proyecto fi
 c:\Users\PERSONAL\Documents\Alfredo\Estudio\Fundamentos  de software\Proyecto final\Cifrado_Cesar-\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.pdb
 c:\Users\PERSONAL\Documents\Alfredo\Estudio\Fundamentos  de software\Proyecto final\Cifrado_Cesar-\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.genruntimeconfig.cache
 c:\Users\PERSONAL\Documents\Alfredo\Estudio\Fundamentos  de software\Proyecto final\Cifrado_Cesar-\TestDemo.Tests\obj\Debug\net8.0\ref\TestDemo.Tests.dll
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_TestDemo.Tests
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.csproj.AssemblyReference.cache
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.AssemblyInfoInputs.cache
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.AssemblyInfo.cs
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.csproj.CoreCompileInputs.cache
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.sourcelink.json
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.dll
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\refint\TestDemo.Tests.dll
+c:\Users\HP\OneDrive\Escritorio\Final1\finalsoft1\TestDemo.Tests\obj\Debug\net8.0\TestDemo.Tests.pdb

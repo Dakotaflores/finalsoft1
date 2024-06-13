@@ -31,7 +31,7 @@ while( finisher == true){
                     char depurador = mensaje[i];
                     int iterador = depurador;
 
-                    if(iterador > 64 && iterador < 91 || iterador >= 97 && iterador < 123 ){
+                    if(iterador > 64 && iterador < 91 || iterador >= 97 && iterador < 123 || iterador > 48 && iterador < 58 ){
                         mensajeOriginal += mensaje[i];
                     }
                 }

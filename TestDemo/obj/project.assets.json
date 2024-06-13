@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+      "projectUniqueName": "c:\\Users\\HP\\OneDrive\\Escritorio\\Final1\\finalsoft1\\TestDemo\\TestDemo.csproj",
       "projectName": "TestDemo",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+      "projectPath": "c:\\Users\\HP\\OneDrive\\Escritorio\\Final1\\finalsoft1\\TestDemo\\TestDemo.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\obj\\",
+      "outputPath": "c:\\Users\\HP\\OneDrive\\Escritorio\\Final1\\finalsoft1\\TestDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

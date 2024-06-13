@@ -2,7 +2,7 @@ namespace TestDemo.Tests;
 
 public class UnitTest1
 {
-    [Fact]
+    /*[Fact]
     public void cifrado ()
     {
         string word = "HOLA";
@@ -28,7 +28,7 @@ public class UnitTest1
 
         Assert.Equal (expectedResult, result2); 
 
-    }
+    }*/
 
     [Fact]
     public void cifrado ()
